@@ -12,3 +12,7 @@ Change path for input file:
 2. src/su_top_model.cpp
    - #include "/$your_path$/model_h/node_encoder_0_weight.h"  for all weights ROM
 
+run vitis_hls with command line, type: <be>
+'''
+vitis_hls -f run_hls.tcl
+'''
