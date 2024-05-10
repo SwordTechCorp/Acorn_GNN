@@ -1,9 +1,9 @@
 # Acorn_GNN
 
-Vitis HLS 2022.2 < br >
-board: xcvu9p-flga2104-2-e < br >
-testbench: su_test.cpp < br >
-kernel: su_top_model.cpp < br >
+Vitis HLS 2022.2 <br>
+board: xcvu9p-flga2104-2-e <br>
+testbench: su_test.cpp <br>
+kernel: su_top_model.cpp <br>
 
 Change path for input file:
 
