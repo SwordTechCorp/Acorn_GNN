@@ -7,8 +7,8 @@ kernel: su_top_model.cpp
 
 Change path for input file:
 
--src/su_host_load.cpp
-  - #define DATA_DIR "/$your_path$/input_dataset/"
--src/su_top_model.cpp
-  - #include "/$your_path$/model_h/node_encoder_0_weight.h"  for all weights ROM
+1. src/su_host_load.cpp
+   - #define DATA_DIR "/$your_path$/input_dataset/"
+2. src/su_top_model.cpp
+   - #include "/$your_path$/model_h/node_encoder_0_weight.h"  for all weights ROM
 
